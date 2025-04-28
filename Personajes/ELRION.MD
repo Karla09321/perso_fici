@@ -10,3 +10,5 @@
 - Telepatía con animales
 
 **Ilustración**: ![Elrion](https://png.pngtree.com/thumb_back/fh260/background/20230611/pngtree-an-image-of-an-elderly-wizard-holding-flame-in-his-hand-image_2901853.jpg)
+
+**Detalles Adicionales**: Elrion es conocido por su sabiduría y su capacidad para comunicarse con los espíritus del bosque.
