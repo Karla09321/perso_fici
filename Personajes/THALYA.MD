@@ -9,3 +9,4 @@
 - **Resistencia**: Capacidad para soportar heridas y seguir luchando.
 - **inteligencia**: capaz de resolver cualquier misterio
 
+**Ilustración**: ![Thalya](https://i.pinimg.com/736x/c1/b3/a9/c1b3a922c0be1b8a46116adeb0cf4be4.jpg)
