@@ -8,3 +8,6 @@
 - **Resistencia**: Puede soportar grandes cantidades de daño en combate.
 - **Habilidad con el hacha**: Experto.
 
+
+**Ilustración**: ![enano](https://us.123rf.com/450wm/goodlighthunting/goodlighthunting2109/goodlighthunting210900396/174383125-personaje-enano-de-fantas%C3%ADa-con-armadura-y-sosteniendo-un-hacha-de-batalla-grande-ilustraci%C3%B3n-3d.jpg?ver=6)
+
